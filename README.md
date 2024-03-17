@@ -1,9 +1,9 @@
 <h1 align="center">Hey! I'm Federico Diaz Nemeth</h1>
 <h3 align="center">A student passionate in software development from Argentina</h3>
 
-- 🔭 I’m currently working on [FEM](https://github.com/Defeeeee/FEM)
+- 🔭 I’m currently working on [LinX](https://github.com/Defeeeee/Linx)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **OpenCV**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Defeeeee](https://github.com/Defeeeee)
 
