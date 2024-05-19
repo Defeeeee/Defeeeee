@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [LinX](https://github.com/Defeeeee/Linx)
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **Swift**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Defeeeee](https://github.com/Defeeeee)
 
