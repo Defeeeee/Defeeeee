@@ -1,7 +1,7 @@
 <h1 align="center">Hey! I'm Federico Diaz Nemeth</h1>
 <h3 align="center">A student passionate in software development from Argentina</h3>
 
-- 🔭 I’m currently working on [Fōrm](https://github.com/Defeeeee/Form)
+- 🔭 I’m currently working on [Fōrm](https://github.com/Defeeeee/FormAI)
 
 - 🌱 I’m currently learning **Machine learning**
 
