@@ -72,7 +72,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=defeeeee&show_icons=true&locale=en&theme=tokyonight" alt="defeeeee" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=defeeeee&layout=compact&show_icons=true&locale=en&theme=tokyonight" alt="defeeeee" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=defeeeee&layout=compact&show_icons=true&locale=en&hide=jupyter%20notebook,css,html&theme=tokyonight" alt="defeeeee" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=defeeeee&theme=tokyonight" alt="defeeeee" />
 </p>
