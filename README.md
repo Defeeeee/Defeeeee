@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[SignAI](https://github.com/Defeeeee/SignAI'SFS)**, an AI-powered sign language translator."*
+- 🔭 I’m currently working on **[SignAI](https://github.com/Defeeeee/SignAI-SFS)**, an AI-powered sign language translator."*
 - 🌱 I’m currently learning **Pytorch** and **TensorFlow**.
 - 🤝 I'm open to collaborating on projects involving **AI/ML**, **Web Development**, or **IoT**.
 - 📫 How to reach me: **fdiaznemeth@gmail.com**
